@@ -51,7 +51,7 @@ Chú thích: ✅ Xong · 🔴 Đang làm · ⬜ Chưa làm
 | [04 — Blind XXE with out-of-band interaction via XML parameter entities](xxe/LAB04.md) | Practitioner | ✅ |
 | [05 — Exploiting blind XXE to exfiltrate data using a malicious external DTD](xxe/LAB05.md) | Practitioner | ✅ |
 | [06 — Exploiting blind XXE to retrieve data via error messages](xxe/LAB06.md) | Practitioner | ✅ |
-| [07 — Exploiting XXE to retrieve data by repurposing a local DTD](xxe/LAB07.md) | Practitioner | ✅ |
+| [07 — Exploiting XXE to retrieve data by repurposing a local DTD](xxe/LAB07.md) | Expert | ✅ |
 | [08 — Exploiting XInclude to retrieve files](xxe/LAB08.md) | Practitioner | ✅ |
 | [09 — Exploiting XXE via image file upload](xxe/LAB09.md) | Practitioner | ✅ |
 
