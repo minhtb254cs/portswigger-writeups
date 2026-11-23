@@ -7,8 +7,8 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# File nguồn / ghi chú (giữ ở máy, không publish)
+
 *.docx
 
-# File build tự sinh (regenerate từ các .md)
+
 *.pdf
