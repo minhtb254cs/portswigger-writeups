@@ -71,7 +71,6 @@ Chú thích: ✅ Xong · 🔴 Đang làm · ⬜ Chưa làm
 ```
 portswigger-writeups/
 ├── README.md          # file này — bảng mục lục
-├── template.md        # khung chuẩn, copy ra mỗi khi viết lab mới
 ├── assets/            # ảnh chụp màn hình dùng chung
 ├── xxe/               # mỗi chủ đề một thư mục
 │   ├── LAB01.md
